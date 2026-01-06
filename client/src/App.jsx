@@ -4,7 +4,6 @@ import { CartProvider } from './context/CartContext';
 import Navbar from './components/Navbar';
 import HomePage from './pages/HomePage';
 import CartPage from './pages/CartPage';
-import './index.css';
 
 function App() {
   return (
